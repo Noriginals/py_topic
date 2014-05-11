@@ -1,0 +1,13 @@
+* Requirements
+  - make sure you have the requirements installed which include nltk,
+    nltk_data, mallet and gensim
+  - You need to instert your own path to the Mallet Binary which you 
+    need to make
+* Data
+  - You get the topic data by grep-ing on the keyword
+
+    grep -i "syria" unified.txt > attack_syria.txt
+
+* getting topics
+
+  - You need to run pytopic.py

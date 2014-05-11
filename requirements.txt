@@ -1,0 +1,23 @@
+Flask           - 0.10.1       - active 
+Jinja2          - 2.7.2        - active 
+MarkupSafe      - 0.23         - active 
+PyYAML          - 3.11         - active 
+Python          - 2.7.6        - active development (/home/evan/.pyenv/versions/2.7.6/lib/python2.7/lib-dynload)
+Werkzeug        - 0.9.4        - active 
+backports.ssl-match-hostname - 3.4.0.2      - active 
+gensim 0.9.1 has no metadata
+ipython 2.0.0 has no metadata
+itsdangerous    - 0.24         - active 
+nltk            - 2.0.4        - active 
+numpy           - 1.8.1        - active 
+pandas          - 0.13.1       - active 
+pip 1.5.2 has no metadata
+python-dateutil - 2.2          - active 
+pytz            - 2014.2       - active 
+pyzmq           - 14.3.0       - active 
+scipy           - 0.14.0       - active 
+setuptools 2.1 has no metadata
+six 1.6.1 has no metadata
+tornado         - 3.2.1        - active 
+wsgiref         - 0.1.2        - active development (/home/evan/.pyenv/versions/2.7.6/lib/python2.7)
+yolk            - 0.4.3        - active 
